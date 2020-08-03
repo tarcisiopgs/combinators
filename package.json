@@ -1,0 +1,11 @@
+{
+  "name": "combinators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "js-combinatorics": "^1.2.1"
+  }
+}
